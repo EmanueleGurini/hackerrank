@@ -7,4 +7,4 @@ eseguibile: sum_difference_of_two_numbers.o
 	gcc -o eseguibile sum_difference_of_two_numbers.o
 
 clean: 
-	rm sum_difference_of_two_numbers.o
+	rm sum_difference_of_two_numbers.o eseguibile

@@ -1,0 +1,3 @@
+/Users/emanuelegurini/Desktop/C/HackerRank/pointers_in_c/CMakeFiles/rebuild_cache.dir
+/Users/emanuelegurini/Desktop/C/HackerRank/pointers_in_c/CMakeFiles/edit_cache.dir
+/Users/emanuelegurini/Desktop/C/HackerRank/pointers_in_c/CMakeFiles/eseguibile.dir
