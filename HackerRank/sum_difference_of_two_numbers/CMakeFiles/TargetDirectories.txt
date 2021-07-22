@@ -1,0 +1,3 @@
+/Users/emanuelegurini/Desktop/C/HackerRank/sum_difference_of_two_numbers/CMakeFiles/rebuild_cache.dir
+/Users/emanuelegurini/Desktop/C/HackerRank/sum_difference_of_two_numbers/CMakeFiles/edit_cache.dir
+/Users/emanuelegurini/Desktop/C/HackerRank/sum_difference_of_two_numbers/CMakeFiles/eseguibile.dir
