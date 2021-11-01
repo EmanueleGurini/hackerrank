@@ -2,8 +2,14 @@
 
 int main() 
 {
-
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
-    printf("test works!\n");
+    char ch;
+    char s[20], sen[100];
+    scanf("%c", &ch);
+    scanf("%s", s);
+    scanf("\n");
+    scanf("%[^\n]%*c", sen);
+    printf("%c\n", ch);
+    printf("%s\n", s);
+    printf("%s\n", sen);
     return 0;
 }
